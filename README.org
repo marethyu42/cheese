@@ -1,0 +1,8 @@
+* Cheese
+This was a very small and silly common lisp project to "cheesify" sentences for a joke, born from a three hour bus ride on a school trip.
+
+Or perhaps I should say:
+
+Chis chas cha chery chall chand chilly chommon chisp choject cho "cheesify" chentences chor cha choke, chorn chom cha chee chour chus chide chon cha chool chip.
+
+Credit to someone else for the split string function, but the rest is all my own code. 

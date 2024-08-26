@@ -31,13 +31,4 @@
 (defun delimiterp (c) (or (char= c #\Space)))
 
 
-(if (equal "" "")
-    1
-    2)
-
-(concatenate 'list '(1) '(1 2))
-
-
-HelloThere
-
-(chotal "beloved community")
+(chotal "Hello There")
